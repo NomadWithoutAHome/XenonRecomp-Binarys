@@ -1,0 +1,1 @@
+/usr/bin/clang -O3 -DNDEBUG -lstdc++ -Xlinker --dependency-file=CMakeFiles/XenonAnalyse.dir/link.d CMakeFiles/XenonAnalyse.dir/main.cpp.o CMakeFiles/XenonAnalyse.dir/function.cpp.o -o XenonAnalyse  ../XenonUtils/libXenonUtils.a ../thirdparty/fmt/libfmt.a ../thirdparty/disasm/libdisasm.a

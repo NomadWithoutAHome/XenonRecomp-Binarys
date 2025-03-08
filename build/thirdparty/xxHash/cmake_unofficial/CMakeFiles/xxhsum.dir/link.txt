@@ -1,0 +1,1 @@
+/usr/bin/clang -O3 -DNDEBUG -lstdc++ -Xlinker --dependency-file=CMakeFiles/xxhsum.dir/link.d CMakeFiles/xxhsum.dir/__/cli/xxhsum.c.o CMakeFiles/xxhsum.dir/__/cli/xsum_os_specific.c.o CMakeFiles/xxhsum.dir/__/cli/xsum_output.c.o CMakeFiles/xxhsum.dir/__/cli/xsum_sanity_check.c.o CMakeFiles/xxhsum.dir/__/cli/xsum_bench.c.o -o xxhsum  libxxhash.a
