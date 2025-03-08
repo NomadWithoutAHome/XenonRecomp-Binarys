@@ -2,7 +2,7 @@
 
 Pre-compiled binaries of [XenonRecomp](https://github.com/hedge-dev/XenonRecomp) for Linux and Windows platforms. 
 
-Binaries Builts: 3/8/2025
+Binaries Built: 3/8/2025
 
 ## Description
 
